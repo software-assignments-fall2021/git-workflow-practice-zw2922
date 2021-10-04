@@ -17,3 +17,7 @@ We use binary computers these days, but why don't we choose the Ternary Computer
 The design of Ternary computers are interesting and outline that there might be more ways to design computers. However, because gates only take two inputs, implementing Ternary computers is hard. The article also provides another possible way for computer design, which is quaternary computer. It's interesting that the qubit can exist in mutiple states at once. The superposition of qubits opens a new world of possibilities. As the author states that quantum computers are expected to be exponentially faster than binary or ternary computers, I kindly expect a quantum computer that is millions of times faster than today’s PC.
 
 (Laura Lou, wl1877)
+
+# Comment 
+
+I find this idea of Ternanty computers interesting, but it leads me to also thinking about quantum computing. There they use Qubits instead and their different states are based on Quantum mechanics. It is heald back mainly by hardware restraints, but you can code in Quantum in the IBM cloud. 
