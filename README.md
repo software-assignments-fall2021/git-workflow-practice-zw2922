@@ -12,3 +12,8 @@ Trinary Coded Binary — {T, F, T}"
 
 # My Opinion
 We use binary computers these days, but why don't we choose the Ternary Computers? The reasons behind are complicated. But the Ternary Computers can work perfectly and the reasons why it works are also interesting. 
+
+# Comment
+The design of Ternary computers are interesting and outline that there might be more ways to design computers. However, because gates only take two inputs, implementing Ternary computers is hard. The article also provides another possible way for computer design, which is quaternary computer. It's interesting that the qubit can exist in mutiple states at once. The superposition of qubits opens a new world of possibilities. As the author states that quantum computers are expected to be exponentially faster than binary or ternary computers, I kindly expect a quantum computer that is millions of times faster than today’s PC.
+
+(Laura Lou, wl1877)
